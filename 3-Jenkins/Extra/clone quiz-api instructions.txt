@@ -1,0 +1,17 @@
+
+1.	Open a Command window on your PC (CMD)
+2.	Make a new directory on your PC like c:\source
+3.	Sign into https://github.com/ using your GitHub account. 
+4.	Search for the repository qa-apprenticeships/quiz-api
+5.	Click on the link to open it 
+6.	In the top-right of the screen, click Fork
+ 
+A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.
+
+This should make a repository called quiz-api in your own GitHub account 
+(for example github.com/<your github account name>/quiz-api)
+
+8.	In the command window, change directory into c:\source
+9.	Clone the quiz-api to disk
+git clone https://github.com/<your account name>/quiz-api
+
